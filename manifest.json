@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Redact",
   "version": "1.0",
-  "description": "Redact personal identifiable information for screenshots",
+  "description": "Redact personally identifiable information for screenshots",
   "icons": {
     "48": "icons/redact-48.png"
   },

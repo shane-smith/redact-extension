@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Redact personal identifiable information for screenshots",
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/redact-48.png"
   },
   "permissions": ["menus", "activeTab"],
   "background": { "scripts": ["background.js"] }

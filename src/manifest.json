@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Redact",
+    "version": "1.0",
+    "description": "Redact personally identifiable information for screenshots",
+    "icons": {
+        "48": "icons/redact-48.png"
+    },
+    "permissions": [
+        "menus",
+        "activeTab"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "applications": {
+        "gecko": {
+            "id": "X@Y"
+        }
+    }
+}
